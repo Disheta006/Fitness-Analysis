@@ -26,9 +26,9 @@ The goal is to demonstrate **data visualization, analysis skills, and real-world
 
 * Color-coded bars:
 
-- 🟢 Green → Goal achieved
+  - 🟢 Green → Goal achieved
 
-- ⚪ Gray → Goal not achieved
+  - ⚪ Gray → Goal not achieved
 
 **2️⃣ Body Weight Trend**
 
@@ -42,11 +42,11 @@ The goal is to demonstrate **data visualization, analysis skills, and real-world
 
 * Pie chart showing nutritional breakdown:
 
-- Carbohydrates: 45%
+   - Carbohydrates: 45%
 
-- Fats: 30%
+   - Fats: 30%
 
-- Protein: 25%
+   - Protein: 25%
 
 ## 🛠️ Tech Stack Used
 
@@ -54,7 +54,7 @@ The goal is to demonstrate **data visualization, analysis skills, and real-world
 
 * **Libraries:**
 
-- ##### matplotlib
+  - matplotlib
 
 * **Tools:** Python IDE / Jupyter Notebook
 
