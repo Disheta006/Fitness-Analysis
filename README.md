@@ -64,11 +64,11 @@ fitness_project.py
 fitness_project.png
 README.md
 
-* ### fitness_project.py → Python script for data visualization
+* **fitness_project.py** → Python script for data visualization
 
-* ### fitness_project.png → Generated output image
+* **fitness_project.png** → Generated output image
 
-* ### README.md → Project documentation
+* **README.md** → Project documentation
 
 ## ▶️ How to Run the Project
 
